@@ -1,0 +1,10 @@
+.todo__item {
+  margin: 1rem 0; 
+}
+
+.todo__item {
+  width: 30%;
+  display: flex;
+  justify-content: space-evenly;
+  color: red;
+}
